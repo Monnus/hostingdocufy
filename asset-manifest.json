@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/hostingdocufy/static/css/main.19a7fd54.css",
+    "main.js": "/hostingdocufy/static/js/main.4bc711a8.js",
+    "static/media/old_man.png": "/hostingdocufy/static/media/old_man.f3da402047885e0e84bf.png",
+    "static/media/Happy-employees.jpeg": "/hostingdocufy/static/media/Happy-employees.9566a548e2ca3ca5e580.jpeg",
+    "static/media/txtBlackman.jpeg": "/hostingdocufy/static/media/txtBlackman.a3f125c007692f6b93b3.jpeg",
+    "static/media/legal-workshop-square-pic-circle-removebg-preview.png": "/hostingdocufy/static/media/legal-workshop-square-pic-circle-removebg-preview.3ebfa56b6591cacd70c3.png",
+    "static/media/blockchain.jpg": "/hostingdocufy/static/media/blockchain.6b368c25f017bb8b8db5.jpg",
+    "static/media/1_UINAsA-ZAG8UBYKhENkWiw.gif": "/hostingdocufy/static/media/1_UINAsA-ZAG8UBYKhENkWiw.0a0c053392676edf2cf3.gif",
+    "static/media/2a321369-1177x1224.webp": "/hostingdocufy/static/media/8ac5c7f468f6a8686d435263efcf994b2a321369-1177x1224.9e2d7c9dbd08e04ccc2a.webp",
+    "static/media/960x0.jpeg": "/hostingdocufy/static/media/960x0.56ae30c71bc5aa33e544.jpeg",
+    "static/media/0c56498b-1314x1180.webp": "/hostingdocufy/static/media/85fc19315ea2838b6faa5d6087a859d00c56498b-1314x1180.73cd914c31cb04abbd7c.webp",
+    "static/media/logo_3-removebg-preview.png": "/hostingdocufy/static/media/logo_3-removebg-preview.dc11d76bd311aed23cd0.png",
+    "static/media/craft-financial-business-plan-1.jpeg": "/hostingdocufy/static/media/craft-financial-business-plan-1.8dd6d7ba5eaff723a814.jpeg",
+    "static/media/5a7a5c47-858x700.webp": "/hostingdocufy/static/media/d6e7c66584a49398201d2cebfef8c39b5a7a5c47-858x700.d34b07fd33f89934d207.webp",
+    "static/media/404.png": "/hostingdocufy/static/media/404.52d6fea71cfb32411afd.png",
+    "static/media/part0.png": "/hostingdocufy/static/media/part0.afabeb5cf5e8ac5c37ee.png",
+    "static/media/defaultUser.png": "/hostingdocufy/static/media/defaultUser.b06e976f5c66ecb0a4da.png",
+    "static/media/wave.svg": "/hostingdocufy/static/media/wave.5b470a0b378ec04284bf.svg",
+    "static/media/Vector (1).svg": "/hostingdocufy/static/media/Vector (1).03d962fa808b5b34840a53dab54c0d6c.svg",
+    "static/media/Vector.svg": "/hostingdocufy/static/media/Vector.2621a43057ec714be6a3a02efc8ba47d.svg",
+    "index.html": "/hostingdocufy/index.html",
+    "static/media/akar-icons_facebook-fill.svg": "/hostingdocufy/static/media/akar-icons_facebook-fill.680f203bb89392c2811cc72905e5d4df.svg",
+    "static/media/ellipsis-solid.svg": "/hostingdocufy/static/media/ellipsis-solid.eb18f2d83996714a9684f4dadcc3f395.svg",
+    "main.19a7fd54.css.map": "/hostingdocufy/static/css/main.19a7fd54.css.map",
+    "main.4bc711a8.js.map": "/hostingdocufy/static/js/main.4bc711a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19a7fd54.css",
+    "static/js/main.4bc711a8.js"
+  ]
+}
